@@ -25,12 +25,23 @@
 
 ### 2. some useful websites 
 
-> 1.matplotlib
+> 1. matplotlib
 >
 > - https://www.matplotlib.org.cn/ (almost Chinese)
 > - https://matplotlib.org/ (more powerful, English)
 >
-> 2.fashminst
+> 2. fashminst
 >
 > -  https://github.com/zalandoresearch/fashion-mnist 
+>
+> 3. paper with code
+>
+>    https://www.paperswithcode.com/sota
+>
+> 4. http://sci-hub.tw/
+>    the first website in the world to provide mass & public access to research papers
+>
+> 5. https://conftube.com/
+>    顶会视频包括ICCV,ICLR,NIPS,ICML等，一些tutorial
+>    上述网站都需要科学上网
 
