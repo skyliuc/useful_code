@@ -23,6 +23,10 @@
 
   using the concept of set 
 
+- tell_me.py
+
+  send email via python smtplib
+
 ### 2. some useful websites 
 
 > 1. matplotlib
